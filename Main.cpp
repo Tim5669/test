@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
+#include "Car.h"
 
-class Car{
+/*class Car{
     private:   
         std::string make;
         std::string model;
@@ -26,7 +27,7 @@ class Car{
         int getNumDoors(){
             return door_count;
         }
-};
+};*/
 
 int main(){
     std::string make, model;
